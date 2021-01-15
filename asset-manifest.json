@@ -1,23 +1,17 @@
 {
   "files": {
-    "main.css": "/shintyl/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/shintyl/static/js/main.ff89b710.chunk.js",
-    "main.js.map": "/shintyl/static/js/main.ff89b710.chunk.js.map",
-    "runtime-main.js": "/shintyl/static/js/runtime-main.3d0e291f.js",
-    "runtime-main.js.map": "/shintyl/static/js/runtime-main.3d0e291f.js.map",
-    "static/js/2.23ad965e.chunk.js": "/shintyl/static/js/2.23ad965e.chunk.js",
-    "static/js/2.23ad965e.chunk.js.map": "/shintyl/static/js/2.23ad965e.chunk.js.map",
-    "static/js/3.809900f3.chunk.js": "/shintyl/static/js/3.809900f3.chunk.js",
-    "static/js/3.809900f3.chunk.js.map": "/shintyl/static/js/3.809900f3.chunk.js.map",
+    "main.js": "/shintyl/static/js/main.860779bd.chunk.js",
+    "main.js.map": "/shintyl/static/js/main.860779bd.chunk.js.map",
+    "runtime-main.js": "/shintyl/static/js/runtime-main.216df883.js",
+    "runtime-main.js.map": "/shintyl/static/js/runtime-main.216df883.js.map",
+    "static/js/2.567c2c6f.chunk.js": "/shintyl/static/js/2.567c2c6f.chunk.js",
+    "static/js/2.567c2c6f.chunk.js.map": "/shintyl/static/js/2.567c2c6f.chunk.js.map",
     "index.html": "/shintyl/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/shintyl/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.23ad965e.chunk.js.LICENSE.txt": "/shintyl/static/js/2.23ad965e.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/shintyl/static/media/logo.6ce24c58.svg"
+    "static/js/2.567c2c6f.chunk.js.LICENSE.txt": "/shintyl/static/js/2.567c2c6f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3d0e291f.js",
-    "static/js/2.23ad965e.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.ff89b710.chunk.js"
+    "static/js/runtime-main.216df883.js",
+    "static/js/2.567c2c6f.chunk.js",
+    "static/js/main.860779bd.chunk.js"
   ]
 }
